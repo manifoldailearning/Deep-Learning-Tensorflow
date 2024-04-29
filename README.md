@@ -1,5 +1,5 @@
 # Deep-Learning-Tensorflow
-A Course by Manifold AI Learning to help the practitioners to Master Python for DevOps and MLOps tasks with this hands-on course!
+A Course by Manifold AI Learning to help the practitioners to Master Tensorflow for Deep Learning
 
 Course link - https://www.manifoldailearning.in/courses/Universal-Deep-Learning-Mastery---2024-Edition-with-Updated-Tensorflow-65f56f67dcd4a41ac7f9b96b
 
